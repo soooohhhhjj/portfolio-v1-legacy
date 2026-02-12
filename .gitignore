@@ -7,4 +7,8 @@ server/.env
 client/node_modules/
 client/dist/
 client/.env
-client/.vite/AGENTS.md
+client/.vite/
+
+# Local agent instructions
+AGENTS.md
+AGENT.md
