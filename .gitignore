@@ -1,0 +1,10 @@
+# Node / backend
+server/node_modules/
+server/dist/
+server/.env
+
+# Frontend
+client/node_modules/
+client/dist/
+client/.env
+client/.vite/
